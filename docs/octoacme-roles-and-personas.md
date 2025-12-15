@@ -97,7 +97,7 @@ Product Owners are responsible for prioritizing the team's backlog, conveying st
 
 ### Typical Communication
 - Daily collaboration with development team on clarifications
-- Weekly sync with Project Manager and Technical Lead
+- Weekly sync with Project Manager and Product Manager
 - Regular stakeholder reviews and feedback sessions
 - Backlog refinement and sprint planning meetings
 
@@ -177,7 +177,7 @@ DevOps Engineers design, implement, and maintain CI/CD pipelines, manage deploym
 - **Developers**: Supports with build issues, deployment automation, and environment access
 - **QA Lead**: Provides and maintains test environments
 - **Project Manager**: Coordinates on infrastructure timelines and risks
-- **Technical Lead**: Aligns on architecture and operational requirements
+- **Product Manager**: Aligns on product infrastructure needs and operational requirements
 
 ---
 
